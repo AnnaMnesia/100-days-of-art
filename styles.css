@@ -15,12 +15,11 @@
     src: url(/fonts/montreal/OTF/PPNeueMontreal-Book.otf) format(opentype);
 }
 
-
 body{
     width: 100%;
     height: 100%;
     font-family: 'Murmure Main', sans-serif;
-    overflow: hidden;
+    overflow: auto;
 }
 
 img{
@@ -148,7 +147,7 @@ img{
     height: 100%;
     padding: 2em;
     display: flex;
-    overflow-y: scroll;
+    overflow-y: auto;
     scrollbar-width: none;
 }
 .items::-webkit-scrollbar {
