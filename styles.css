@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scrollbar-width: none;
 }
 
 @font-face {
@@ -135,6 +136,10 @@ img{
     color: red;
 }
 
+::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+}
+
 .items{
     position: absolute;
     top: 0;
@@ -145,6 +150,9 @@ img{
     display: flex;
     overflow-y: scroll;
     scrollbar-width: none;
+}
+.items::-webkit-scrollbar {
+    display: none;
 }
 
 .items-col{
