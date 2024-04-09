@@ -37,7 +37,7 @@ img{
 .loader-clip{
     position: absolute;
     width: 100vw;
-    height: 33.3vh;
+    height: 33.4vh;
     overflow: clip;
     z-index: 10000;
 }
