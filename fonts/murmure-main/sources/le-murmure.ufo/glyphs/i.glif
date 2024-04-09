@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+	<advance width="140"/>
+	<unicode hex="0069"/>
+	<anchor x="75" y="637" name="top"/>
+	<anchor x="70" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="17" y="730" type="line"/>
+			<point x="17" y="679" type="line"/>
+			<point x="123" y="679" type="line"/>
+			<point x="123" y="730" type="line"/>
+		</contour>
+		<component base="dotlessi"/>
+	</outline>
+</glyph>

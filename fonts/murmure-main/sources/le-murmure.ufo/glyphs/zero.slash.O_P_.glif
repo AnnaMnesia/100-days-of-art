@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.slash.OP" format="2">
+	<advance width="276"/>
+	<anchor x="143" y="640" name="top"/>
+	<outline>
+		<contour>
+			<point x="202" y="535" type="line"/>
+			<point x="96" y="70" type="line"/>
+			<point x="76" y="70" type="line"/>
+			<point x="182" y="535" type="line"/>
+		</contour>
+		<component base="zero.OP"/>
+	</outline>
+</glyph>

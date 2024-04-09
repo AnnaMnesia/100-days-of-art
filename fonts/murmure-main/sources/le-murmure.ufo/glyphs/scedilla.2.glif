@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scedilla.2" format="2">
+	<advance width="238"/>
+	<anchor x="125" y="640" name="top"/>
+	<anchor x="111" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="88" y="-130" type="curve" smooth="yes"/>
+			<point x="72" y="-130"/>
+			<point x="57" y="-128"/>
+			<point x="45" y="-124" type="curve"/>
+			<point x="48" y="-49" type="line"/>
+			<point x="64" y="-61"/>
+			<point x="97" y="-72"/>
+			<point x="108" y="-72" type="curve"/>
+			<point x="116" y="-72"/>
+			<point x="121" y="-69"/>
+			<point x="121" y="-61" type="curve"/>
+			<point x="121" y="-46"/>
+			<point x="111" y="-23"/>
+			<point x="96" y="3" type="curve"/>
+			<point x="110" y="3" type="line"/>
+			<point x="131" y="-27"/>
+			<point x="145" y="-52"/>
+			<point x="145" y="-76" type="curve"/>
+			<point x="145" y="-110"/>
+			<point x="117" y="-130"/>
+		</contour>
+		<component base="s.2"/>
+	</outline>
+</glyph>

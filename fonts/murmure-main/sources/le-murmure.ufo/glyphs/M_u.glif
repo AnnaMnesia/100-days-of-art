@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="2">
+	<advance width="357"/>
+	<unicode hex="039C"/>
+	<outline>
+		<contour>
+			<point x="35" y="730" type="line"/>
+			<point x="105" y="730" type="line"/>
+			<point x="100" y="522" type="line"/>
+			<point x="77" y="522" type="line"/>
+			<point x="104" y="0" type="line"/>
+			<point x="25" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="730" type="line"/>
+			<point x="110" y="730" type="line"/>
+			<point x="190" y="257" type="line"/>
+			<point x="201" y="257" type="line"/>
+			<point x="193" y="50" type="line"/>
+			<point x="170" y="50" type="line"/>
+		</contour>
+		<contour>
+			<point x="201" y="257" type="line"/>
+			<point x="259" y="730" type="line"/>
+			<point x="285" y="730" type="line"/>
+			<point x="193" y="50" type="line"/>
+			<point x="170" y="50" type="line"/>
+		</contour>
+		<contour>
+			<point x="242" y="522" type="line"/>
+			<point x="261" y="730" type="line"/>
+			<point x="322" y="730" type="line"/>
+			<point x="332" y="0" type="line"/>
+			<point x="255" y="0" type="line"/>
+			<point x="268" y="522" type="line"/>
+		</contour>
+	</outline>
+</glyph>

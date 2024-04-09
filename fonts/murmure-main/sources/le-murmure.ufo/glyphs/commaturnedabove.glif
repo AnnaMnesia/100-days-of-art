@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabove" format="2">
+	<advance width="250"/>
+	<anchor x="123" y="640" name="_top"/>
+	<outline>
+		<component base="commaaccent" xScale="-1" yScale="-1" xOffset="249" yOffset="615"/>
+	</outline>
+</glyph>

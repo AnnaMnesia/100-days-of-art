@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E" format="2">
+	<advance width="399"/>
+	<unicode hex="044E"/>
+	<anchor x="266" y="640" name="top"/>
+	<outline>
+		<contour>
+			<point x="194" y="294" type="line"/>
+			<point x="82" y="294" type="line"/>
+			<point x="82" y="314" type="line"/>
+			<point x="194" y="314" type="line"/>
+		</contour>
+		<component base="dotlessi"/>
+		<component base="o" xOffset="123"/>
+	</outline>
+</glyph>

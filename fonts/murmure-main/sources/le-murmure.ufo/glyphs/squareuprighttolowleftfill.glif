@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="squareuprighttolowleftfill" format="2">
+	<advance width="619"/>
+	<outline>
+		<component base="squareuplefttolowrightfill" xScale="-1" xOffset="619"/>
+	</outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.cap" format="2">
+	<advance width="148"/>
+	<note>
+		Wed Jul 24 17:37:45 2019
+	</note>
+	<outline>
+		<contour>
+			<point x="105" y="707" type="curve" smooth="yes"/>
+			<point x="107" y="730" type="line"/>
+			<point x="43" y="730" type="line"/>
+			<point x="46" y="697" type="line" smooth="yes"/>
+			<point x="49" y="659"/>
+			<point x="47.645" y="628.766"/>
+			<point x="40" y="596" type="curve"/>
+			<point x="47" y="593" type="line"/>
+			<point x="84.355" y="629.372"/>
+			<point x="100.915" y="660.019"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.48,1,0.7,1</string>
+		</dict>
+	</lib>
+</glyph>

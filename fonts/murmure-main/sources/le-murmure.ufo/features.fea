@@ -1,0 +1,648 @@
+@MMK_L_A = [ A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek A.2 Agrave.2 Aacute.2 Acircumflex.2 Atilde.2 Adieresis.2 Aring.2 Amacron.2 Abreve.2 Aogonek.2 M.5 uni0410 ];
+
+@MMK_L_B = [ B eight.OP ];
+
+@MMK_L_C.2 = [ C.2 Ccedilla.2 Cacute.2 Ccircumflex.2 Cdotaccent.2 uni0421.2 ];
+
+@MMK_L_C = [ C Ccedilla Cacute Ccircumflex Ccaron Cdotaccent ];
+
+@MMK_L_De = [ uni0414 uni0426 uni0429 uni0429.2 uni0429.3 ];
+
+@MMK_L_E = [ E AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron OE AE.2 uni0415 uni0401 ];
+
+@MMK_L_Ecy.2 = [ uni0404.3 ];
+
+@MMK_L_Eth = [ D O Dcaron Eth Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Oslash zero zero.slash uni0412 uni0417 uni041E uni0421 uni0404 uni042D uni042E ];
+
+@MMK_L_F = [ F ];
+
+@MMK_L_G = [ G Gcircumflex Gdotaccent ];
+
+@MMK_L_Ge = [ uni0413 uni0490 ];
+
+@MMK_L_H = [ uni0418 uni0419 uni041B uni041C uni041D uni041F uni0427 uni0428 uni042B uni0406 uni0407 uni042F uni0418.2 uni0418.3 uni0419.2 uni0419.3 uni041C.2 uni041C.3 uni041C.4 uni0428.2 uni0428.3 uni042F.2 uni04180419 ];
+
+@MMK_L_J = [ J U Jcircumflex Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek ];
+
+@MMK_L_K.2 = [ K.2 uni0416.2 ];
+
+@MMK_L_K = [ K uni0416 uni041A uni041A.2 ];
+
+@MMK_L_Kk = [ uni0416.3 uni041A.3 ];
+
+@MMK_L_L = [ L Lacute ];
+
+@MMK_L_Lcaron = [ Lcaron ];
+
+@MMK_L_Ldot = [ Ldot ];
+
+@MMK_L_Lslash = [ Lslash ];
+
+@MMK_L_P = [ P uni0420 uni20BD ];
+
+@MMK_L_Q = [ Q ];
+
+@MMK_L_R = [ R Racute ];
+
+@MMK_L_S.2 = [ S.2 Sacute.2 Scircumflex.2 Scedilla.2 Scaron.2 ];
+
+@MMK_L_Scaron = [ S Sacute Scircumflex Scedilla Scaron ];
+
+@MMK_L_Soft = [ uni042C uni042A ];
+
+@MMK_L_T = [ Tcaron uni0422 uni20B8 ];
+
+@MMK_L_Thorn = [ Thorn ];
+
+@MMK_L_V = [ V ];
+
+@MMK_L_W = [ W Wcircumflex Wgrave Wacute Wdieresis W.2 Wcircumflex.2 Wgrave.2 Wacute.2 Wdieresis.2 uni0429.4 ];
+
+@MMK_L_X = [ X uni0425 ];
+
+@MMK_L_Yacute = [ Y Yacute Ycircumflex Ydieresis Ygrave ];
+
+@MMK_L_Zcaron = [ Z Zacute Zdotaccent Zcaron Z.2 Zacute.2 Zdotaccent.2 Zcaron.2 ];
+
+@MMK_L_a = [ a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni0430 ];
+
+@MMK_L_ampersand = [ ampersand ];
+
+@MMK_L_asterisk = [ asterisk ];
+
+@MMK_L_at = [ at ];
+
+@MMK_L_b = [ b e o p ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron ograve oacute ocircumflex otilde odieresis omacron obreve ohungarumlaut oslash oe uni0431 uni0432 uni0435 uni0451 uni0437 uni043E uni0440 uni0441 uni0444 uni0454 uni044D uni044E uni0444.2 zero.OP zero.slash.OP ];
+
+@MMK_L_backslash = [ backslash ];
+
+@MMK_L_braceleft.cap = [ braceleft.cap ];
+
+@MMK_L_c = [ c ccedilla cacute ccircumflex cdotaccent ccaron ];
+
+@MMK_L_colon = [ colon ];
+
+@MMK_L_comma = [ underscore quotesinglbase quotedblbase period comma ellipsis ];
+
+@MMK_L_dcaron = [ dcaron lcaron ];
+
+@MMK_L_de = [ uni0434 uni0446 uni0449 uni0449.2 uni0449.3 ];
+
+@MMK_L_exclamdown = [ exclamdown ];
+
+@MMK_L_f = [ f f_f ];
+
+@MMK_L_g = [ g gcircumflex gdotaccent ];
+
+@MMK_L_ge = [ uni0433 uni0491 ];
+
+@MMK_L_guillemotleft.cap = [ guillemotleft.cap guillemotright.cap ];
+
+@MMK_L_guillemotleft = [ guillemotleft guillemotright guilsinglleft guilsinglright ];
+
+@MMK_L_guilsinglleft.cap = [ guilsinglleft.cap guilsinglright.cap ];
+
+@MMK_L_h = [ h m n hcircumflex ntilde nacute ncaron m.2 m.3 m.4 n.2 n.3 n.4 ];
+
+@MMK_L_hyphen = [ hyphen endash emdash periodcentered bullet minus asciitilde ];
+
+@MMK_L_ii = [ uni0456 uni0457 ];
+
+@MMK_L_j = [ j jcircumflex ];
+
+@MMK_L_k = [ k uni043A ];
+
+@MMK_L_o = [ uni2116 ];
+
+@MMK_L_parenleft = [ parenleft bracketleft braceleft ];
+
+@MMK_L_q = [ q ];
+
+@MMK_L_questiondown = [ questiondown ];
+
+@MMK_L_quotedbl = [ quotesingle quotedbl quoteleft quoteright quotedblleft quotedblright ];
+
+@MMK_L_r.2 = [ r.2 racute.2 ];
+
+@MMK_L_r = [ r racute ];
+
+@MMK_L_s.2 = [ s.2 sacute.2 scircumflex.2 scedilla.2 scaron.2 ];
+
+@MMK_L_scaron = [ s sacute scircumflex scedilla scaron ];
+
+@MMK_L_sha4 = [ uni0449.4 ];
+
+@MMK_L_slash = [ slash ];
+
+@MMK_L_soft = [ uni044C uni044A ];
+
+@MMK_L_t = [ t tcaron ];
+
+@MMK_L_thorn = [ thorn ];
+
+@MMK_L_u = [ u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni0438 uni0439 uni043B uni043C uni043D uni043F uni0447 uni0448 uni044B uni044F uni0438.2 uni0438.3 uni0439.2 uni0439.3 uni043C.2 uni043C.3 uni0448.2 uni0448.3 uni04380439 ];
+
+@MMK_L_v = [ v uni0448.4 ];
+
+@MMK_L_w = [ w wcircumflex wgrave wacute wdieresis ];
+
+@MMK_L_x = [ x uni0436 uni0445 ];
+
+@MMK_L_y = [ uni0443 ];
+
+@MMK_L_yacute = [ y yacute ydieresis ycircumflex ygrave ];
+
+@MMK_L_zcaron = [ z zacute zdotaccent zcaron z.2 zacute.2 zdotaccent.2 zcaron.2 ];
+
+@MMK_R_A = [ A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek AE A.2 Agrave.2 Aacute.2 Acircumflex.2 Atilde.2 Adieresis.2 Aring.2 Amacron.2 Abreve.2 Aogonek.2 AE.2 M.5 uni0410 ];
+
+@MMK_R_C.2 = [ C.2 Ccedilla.2 Cacute.2 Ccircumflex.2 Cdotaccent.2 uni0421.2 uni0404.3 ];
+
+@MMK_R_C = [ C G O Q Ccedilla Cacute Ccircumflex Ccaron Cdotaccent Gcircumflex Gdotaccent Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Oslash OE Q.2 ];
+
+@MMK_R_De = [ uni0414 ];
+
+@MMK_R_H = [ uni0411 uni0413 uni0490 uni0415 uni0401 uni0418 uni0419 uni041A uni041C uni041D uni041F uni0420 uni0426 uni0428 uni0429 uni042C uni042B uni0406 uni0407 uni042E uni0418.2 uni0418.3 uni0419.2 uni0419.3 uni041A.2 uni041A.3 uni041C.2 uni041C.3 uni041C.4 uni0428.2 uni0428.3 uni0429.2 uni0429.3 uni04180419 uni20BD uni2116 ];
+
+@MMK_R_J = [ J Jcircumflex ];
+
+@MMK_R_O = [ zero zero.slash uni0417 uni041E uni0421 uni0404 uni042D ];
+
+@MMK_R_S.2 = [ S.2 Sacute.2 Scircumflex.2 Scedilla.2 Scaron.2 ];
+
+@MMK_R_Scaron = [ S Sacute Scircumflex Scedilla Scaron ];
+
+@MMK_R_T = [ T Tcaron uni0422 uni20B8 ];
+
+@MMK_R_U = [ U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek ];
+
+@MMK_R_V = [ V ];
+
+@MMK_R_W = [ W Wcircumflex Wgrave Wacute Wdieresis W.2 Wcircumflex.2 Wgrave.2 Wacute.2 Wdieresis.2 uni0429.4 ];
+
+@MMK_R_X = [ X uni0416 uni0425 uni0416.2 ];
+
+@MMK_R_Yacute = [ Y Yacute Ycircumflex Ydieresis Ygrave ];
+
+@MMK_R_Zcaron = [ Z Zacute Zdotaccent Zcaron Z.2 Zacute.2 Zdotaccent.2 Zcaron.2 ];
+
+@MMK_R_a = [ a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek ae uni0430 ];
+
+@MMK_R_ampersand = [ ampersand ];
+
+@MMK_R_at = [ at ];
+
+@MMK_R_b = [ b ];
+
+@MMK_R_backslash = [ backslash ];
+
+@MMK_R_c = [ c d e o q ccedilla cacute ccircumflex cdotaccent ccaron dcaron egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron ograve oacute ocircumflex otilde odieresis omacron obreve ohungarumlaut oslash oe uni0435 uni0451 uni0437 uni043E uni0441 uni0444 uni0454 uni044D uni0444.2 zero.OP zero.slash.OP ];
+
+@MMK_R_colon = [ colon ];
+
+@MMK_R_comma = [ underscore quotesinglbase quotedblbase period comma ellipsis ];
+
+@MMK_R_dagger = [ dagger ];
+
+@MMK_R_exclam = [ exclam ];
+
+@MMK_R_f = [ f f_f fi fl f_f_i f_f_l f.2 ];
+
+@MMK_R_g = [ g gcircumflex gdotaccent ];
+
+@MMK_R_guillemotleft.cap = [ guillemotleft.cap guillemotright.cap ];
+
+@MMK_R_guillemotleft = [ guillemotleft guillemotright guilsinglleft guilsinglright ];
+
+@MMK_R_guilsinglleft.cap = [ guilsinglleft.cap guilsinglright.cap ];
+
+@MMK_R_hyphen.cap = [ hyphen.cap endash.cap emdash.cap periodcentered.cap bullet.cap ];
+
+@MMK_R_hyphen = [ hyphen endash emdash periodcentered bullet minus asciitilde ];
+
+@MMK_R_ii = [ uni0456 uni0457 ];
+
+@MMK_R_j = [ j jcircumflex ];
+
+@MMK_R_m = [ m n r dotlessi ntilde nacute ncaron racute m.2 m.3 m.4 n.2 n.3 n.4 r.2 racute.2 uni0432 uni0433 uni0491 uni0438 uni0439 uni043A uni043C uni043D uni043F uni0440 uni0446 uni0448 uni0449 uni044C uni044B uni044E uni0438.2 uni0438.3 uni0439.2 uni0439.3 uni043C.2 uni043C.3 uni0448.2 uni0448.3 uni0449.2 uni0449.3 uni04380439 ];
+
+@MMK_R_p = [ p ];
+
+@MMK_R_parenright = [ parenright bracketright braceright ];
+
+@MMK_R_question = [ question ];
+
+@MMK_R_questiondown = [ questiondown ];
+
+@MMK_R_quotedbl = [ quotesingle quotedbl quoteleft quoteright quotedblleft quotedblright ];
+
+@MMK_R_s.2 = [ s.2 sacute.2 scircumflex.2 scedilla.2 scaron.2 ];
+
+@MMK_R_scaron = [ s sacute scircumflex scedilla scaron ];
+
+@MMK_R_sha4 = [ uni0449.4 ];
+
+@MMK_R_slash = [ slash ];
+
+@MMK_R_t = [ t tcaron ];
+
+@MMK_R_u = [ u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek ];
+
+@MMK_R_v = [ v uni0448.4 ];
+
+@MMK_R_w = [ w wcircumflex wgrave wacute wdieresis ];
+
+@MMK_R_x = [ x uni0436 uni0445 ];
+
+@MMK_R_y = [ uni0443 ];
+
+@MMK_R_yacute = [ y yacute ydieresis ycircumflex ygrave ];
+
+@MMK_R_zcaron = [ z zacute zdotaccent zcaron z.2 zacute.2 zdotaccent.2 zcaron.2 ];
+
+@z = [ zcaron zacute.2 zdotaccent zcaron.2 z.2 zacute z zdotaccent.2 ];
+
+@guillemo.cap = [ guillemotright.cap guilsinglright.cap guilsinglleft.cap guillemotleft.cap ];
+
+@c = [ c cdotaccent cacute ccaron ccircumflex ccedilla ];
+
+@L = [ L Lacute ];
+
+@quotes = [ quotedblright quotedbl quotedblleft quoteleft quoteright quotesingle ];
+
+@f = [ f_f f.2 f f_f_i fi fl f_f_l ];
+
+@C.2 = [ Cacute.2 Cdotaccent.2 C.2 Ccedilla.2 Ccircumflex.2 ];
+
+@O = [ Omacron Ccaron Gcircumflex Gdotaccent Odieresis Ohungarumlaut Cacute Ccircumflex Oslash C G O Otilde Q Oacute Cdotaccent Q.2 Ograve OE Obreve Ccedilla Ocircumflex ];
+
+@g = [ gdotaccent gcircumflex g ];
+
+@R = [ Racute R ];
+
+@j = [ j jcircumflex ];
+
+@S = [ Scedilla S Sacute Scircumflex Scaron ];
+
+@r.2 = [ r.2 racute.2 ];
+
+@U = [ Udieresis Uhungarumlaut Umacron Uacute Utilde Uring Ugrave Uogonek Ucircumflex U Ubreve ];
+
+@V = [ V ];
+
+@n = [ racute nacute m m.2 m.3 m.4 racute.2 n ntilde r r.2 ncaron n.4 n.3 n.2 ];
+
+@W = [ Wcircumflex.2 Wgrave Wcircumflex Wacute.2 Wgrave.2 W.2 W Wacute Wdieresis.2 Wdieresis ];
+
+@o = [ cdotaccent ograve ocircumflex edieresis obreve ccedilla edotaccent egrave eogonek otilde ccaron dcaron oslash cacute ecircumflex odieresis ohungarumlaut ebreve omacron emacron ccircumflex eacute ecaron c e d oe o q oacute ];
+
+@guillemo = [ guilsinglleft guillemotright guillemotleft guilsinglright ];
+
+@A = [ Agrave.2 Adieresis.2 M.5 Atilde Acircumflex.2 Adieresis Aacute Aacute.2 Acircumflex Amacron.2 A AE.2 AE A.2 Aogonek.2 Amacron Aogonek Aring Aring.2 Atilde.2 Abreve.2 Agrave Abreve ];
+
+@Y = [ Y Ycircumflex Ydieresis Yacute Ygrave ];
+
+@comma = [ quotesinglbase period quotedblbase comma underscore ellipsis ];
+
+@Z = [ Zcaron Zacute.2 Zdotaccent Zcaron.2 Z.2 Zacute Z Zdotaccent.2 ];
+
+@r = [ racute r ];
+
+@C = [ C Cdotaccent Cacute Ccaron Ccircumflex Ccedilla ];
+
+@S.2 = [ Scaron.2 Sacute.2 S.2 Scedilla.2 Scircumflex.2 ];
+
+@s = [ s sacute scircumflex scaron scedilla ];
+
+@E = [ Ecaron AE.2 Eogonek E Ecircumflex OE Ebreve Egrave Edieresis Emacron Eacute AE Edotaccent ];
+
+@parenright = [ parenright bracketright braceright ];
+
+@parenleft = [ bracketleft parenleft braceleft ];
+
+@dcaron = [ lcaron dcaron ];
+
+@s.2 = [ scaron.2 sacute.2 scircumflex.2 s.2 scedilla.2 ];
+
+@hyphen.cap = [ hyphen.cap endash.cap emdash.cap periodcentered.cap bullet.cap ];
+
+@G = [ Gdotaccent Gcircumflex G ];
+
+@u = [ udieresis uhungarumlaut umacron uacute utilde uring ugrave uogonek ucircumflex u ubreve ];
+
+@w = [ wgrave wcircumflex wdieresis w wacute ];
+
+@hyphen = [ endash periodcentered bullet hyphen asciitilde emdash ];
+
+@a = [ a aring ae aacute amacron agrave atilde acircumflex adieresis aogonek abreve ];
+
+@y = [ y ycircumflex ydieresis yacute ygrave ];
+
+@J = [ J Jcircumflex ];
+
+@onum = [ zero.OP one.OP two.OP three.OP four.OP five.OP six.OP seven.OP eight.OP nine.OP ];
+
+@lnum = [ zero one two three four five six seven eight nine ];
+
+@punc.lc = [ hyphen endash emdash parenleft parenright bracketleft bracketright braceleft braceright guilsinglleft guilsinglright exclamdown questiondown periodcentered bullet guillemotleft guillemotright ];
+
+@punc.cap = [ hyphen.cap endash.cap emdash.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap guilsinglleft.cap guilsinglright.cap exclamdown.cap questiondown.cap periodcentered.cap bullet.cap guillemotleft.cap guillemotright.cap ];
+
+@zigzagfrom = [ M N S Z Zacute Zdotaccent Zcaron f j m n s z zacute zdotaccent zcaron uni041C uni0418 uni0419 uni043C uni0438 uni0439 uni0428 uni0448 uni0429 uni0449 ];
+
+@zigzag2 = [ M.2 N.2 S.2 Z.2 Zacute.2 Zdotaccent.2 Zcaron.2 f.2 j.2 m.2 n.2 s.2 z.2 zacute.2 zdotaccent.2 zcaron.2 uni041C.2 uni0418.2 uni0419.2 uni043C.2 uni0438.2 uni0439.2 uni0428.2 uni0448.2 uni0429.2 uni0449.2 ];
+
+@zigzag3 = [ M.3 N.3 S.2 Z.2 Zacute.2 Zdotaccent.2 Zcaron.2 f.2 j.2 m.3 n.3 s.2 z.2 zacute.2 zdotaccent.2 zcaron.2 uni041C.3 uni0418.3 uni0419.3 uni043C.3 uni0438.3 uni0439.3 uni0428.3 uni0448.3 uni0429.3 uni0449.3 ];
+
+@altafrom = [ A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek AE ];
+
+@mutantsfrom = [ K M uni041A uni0416 uni041C ];
+
+@mutants = [ K.3 M.4 uni041A.3 uni0416.3 uni041C.4 ];
+
+@Alphas_left = [ Alphatonos Alpha uni2206 uni0394 Lambda ];
+
+@Alphas_right = [ Alpha uni2206 uni0394 Lambda ];
+
+@Gammas = [ Gamma ];
+
+@Iotas = [ Iota Iotatonos Iotadieresis ];
+
+@Kappas = [ Kappa ];
+
+@Omicron_Thetas = [ Theta Omicron Omicrontonos uni2126 Omegatonos uni03A9 Phi ];
+
+@Phis = [ Phi ];
+
+@Psis = [ Psi ];
+
+@Rhos = [ Rho ];
+
+@Sigmas = [ Sigma ];
+
+@Taus = [ Tau ];
+
+@Upsilons_left = [ Upsilontonos Upsilon Upsilondieresis ];
+
+@Upsilons_right = [ Upsilon Upsilondieresis ];
+
+@Zetas = [ Zeta ];
+
+@lc_for_Gamma_Tau = [ alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos alpha gamma epsilon eta iota kappa uni03BC nu omicron pi rho sigma tau upsilon phi chi psi omega ];
+
+@lc_for_Alphas = [ gamma nu ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn CAT;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem cyrl TAT;
+
+# Prefix: Prefix
+@altatoo = [ A.2 Agrave.2 Aacute.2 Acircumflex.2 Atilde.2 Adieresis.2 Aring.2 Amacron.2 Abreve.2 Aogonek.2 AE.2 ] ;
+@allbasics = [space .notdef A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek AE Ccedilla Cacute Ccircumflex Ccaron Cdotaccent Dcaron Eth Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gdotaccent Hcircumflex Igrave Iacute Icircumflex Idieresis Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Lacute Lcaron Ldot Lslash Ntilde Nacute Ncaron Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Oslash OE Racute Sacute Scircumflex Scedilla Scaron Tcaron Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Wgrave Wacute Wdieresis Yacute Ycircumflex Ydieresis Ygrave Zacute Zdotaccent Zcaron Thorn a b c d e f g h i j k l m n o p q r s t u v w x y z agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek ae ccedilla cacute ccircumflex cdotaccent ccaron dcaron egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron gcircumflex gdotaccent hcircumflex dotlessi igrave iacute icircumflex idieresis itilde ibreve iogonek i.TRK i.dot ij jcircumflex uni0237 lacute lcaron ldot lslash ntilde nacute ncaron ograve oacute ocircumflex otilde odieresis omacron obreve ohungarumlaut oslash oe racute sacute scircumflex scedilla scaron tcaron ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex wgrave wacute wdieresis yacute ydieresis ycircumflex ygrave zacute zdotaccent zcaron ordfeminine ordmasculine germandbls eth thorn zero zero.slash one two three four five six seven eight nine zero.slash.OP zero.OP one.OP two.OP three.OP four.OP five.OP six.OP seven.OP eight.OP nine.OP underscore hyphen endash emdash parenleft parenright bracketleft bracketright braceleft braceright numbersign percent perthousand quotesingle quotedbl quoteleft quoteright quotedblleft quotedblright quotesinglbase quotedblbase guillemotleft guillemotright guilsinglleft guilsinglright asterisk dagger daggerdbl period comma colon semicolon ellipsis exclam exclamdown question questiondown slash backslash at ampersand section paragraph periodcentered bullet plus minus equal less greater dollar Euro asciicircum asciitilde acute grave hungarumlaut circumflex caron caron_vert breve tilde macron dieresis dotaccent ring cedilla ogonek degree VTF f_f fi fl f_f_i f_f_l hyphen.cap endash.cap emdash.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap guilsinglleft.cap guilsinglright.cap exclamdown.cap questiondown.cap periodcentered.cap bullet.cap guillemotleft.cap guillemotright.cap uni26A1 pointer squareuplefttolowrightfill upperlefttolowrightfill squareuprighttolowleftfill uprighttolowerleftfill uni0410 uni0411 uni0412 uni0413 uni0490 uni0414 uni0415 uni0401 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni042C uni042A uni042B uni0404 uni042D uni0406 uni0407 uni042E uni042F uni0430 uni0431 uni0432 uni0433 uni0491 uni0434 uni0435 uni0451 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0447 uni0446 uni0448 uni0449 uni044C uni044A uni044B uni0454 uni044D uni0456 uni0457 uni044E uni044F ] ;
+@all = [space .notdef A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek AE Ccedilla Cacute Ccircumflex Ccaron Cdotaccent Dcaron Eth Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gdotaccent Hcircumflex Igrave Iacute Icircumflex Idieresis Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Lacute Lcaron Ldot Lslash Ntilde Nacute Ncaron Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Oslash OE Racute Sacute Scircumflex Scedilla Scaron Tcaron Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Wgrave Wacute Wdieresis Yacute Ycircumflex Ydieresis Ygrave Zacute Zdotaccent Zcaron Thorn a b c d e f g h i j k l m n o p q r s t u v w x y z agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek ae ccedilla cacute ccircumflex cdotaccent ccaron dcaron egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron gcircumflex gdotaccent hcircumflex dotlessi igrave iacute icircumflex idieresis itilde ibreve iogonek i.TRK i.dot ij jcircumflex uni0237 lacute lcaron ldot lslash ntilde nacute ncaron ograve oacute ocircumflex otilde odieresis omacron obreve ohungarumlaut oslash oe racute sacute scircumflex scedilla scaron tcaron ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex wgrave wacute wdieresis yacute ydieresis ycircumflex ygrave zacute zdotaccent zcaron ordfeminine ordmasculine germandbls eth thorn zero zero.slash one two three four five six seven eight nine zero.slash.OP zero.OP one.OP two.OP three.OP four.OP five.OP six.OP seven.OP eight.OP nine.OP underscore hyphen endash emdash parenleft parenright bracketleft bracketright braceleft braceright numbersign percent perthousand quotesingle quotedbl quoteleft quoteright quotedblleft quotedblright quotesinglbase quotedblbase guillemotleft guillemotright guilsinglleft guilsinglright asterisk dagger daggerdbl period comma colon semicolon ellipsis exclam exclamdown question questiondown slash backslash at ampersand section paragraph periodcentered bullet plus minus equal less greater dollar Euro asciicircum asciitilde acute grave hungarumlaut circumflex caron caron_vert breve tilde macron dieresis dotaccent ring cedilla ogonek degree VTF f_f fi fl f_f_i f_f_l hyphen.cap endash.cap emdash.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap guilsinglleft.cap guilsinglright.cap exclamdown.cap questiondown.cap periodcentered.cap bullet.cap guillemotleft.cap guillemotright.cap  A.2 Agrave.2 Aacute.2 Acircumflex.2 Atilde.2 Adieresis.2 Aring.2 Amacron.2 Abreve.2 Aogonek.2 AE.2 C.2 Ccedilla.2 Cacute.2 Ccircumflex.2 Cdotaccent.2 K.2 K.3 M.2 M.3 M.4 M.5 N.2 N.3 Q.2 R.2 S.2 Sacute.2 Scircumflex.2 Scedilla.2 Scaron.2 W.2 Wcircumflex.2 Wgrave.2 Wacute.2 Wdieresis.2 Z.2 Zacute.2 Zdotaccent.2 Zcaron.2 f.2 j.2 m.2 m.3 m.4 n.2 n.3 n.4 r.2 racute.2 s.2 sacute.2 scircumflex.2 scedilla.2 scaron.2 z.2 zacute.2 zdotaccent.2 zcaron.2  uni26A1 pointer squareuplefttolowrightfill upperlefttolowrightfill squareuprighttolowleftfill uprighttolowerleftfill ] ;
+@altfrom = [ A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek AE C M N S W Z Zacute Zdotaccent Zcaron f j m n s z zacute zdotaccent zcaron uni0418 uni0419 uni041C uni0428 uni0429 uni0416 uni041A uni0421  uni042D uni0404 uni0438 uni0439 uni043C uni0448 uni0449 uni0444] ;
+@altto = [ A.2 Agrave.2 Aacute.2 Acircumflex.2 Atilde.2 Adieresis.2 Aring.2 Amacron.2 Abreve.2 Aogonek.2 AE.2 C.2 M.2 N.2 S.2 W.2 Z.2 Zacute.2 Zdotaccent.2 Zcaron.2  f.2 j.2 m.2 n.2 s.2 z.2 zacute.2 zdotaccent.2 zcaron.2 uni0418.2 uni0419.2 uni041C.2 uni0428.2 uni0429.2 uni0416.2 uni041A.2 uni0421.2 uni042D.3 uni0404.3 uni0438.2 uni0439.2 uni043C.2 uni0448.2 uni0449.2 uni0444.2] ;
+
+#greek
+
+feature locl {
+# automatic
+script latn;
+language CRT;
+sub i by i.TRK;
+language KAZ;
+sub i by i.TRK;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language TRK;
+sub i by i.TRK;
+language AZE;
+sub i by i.TRK;
+
+script cyrl;
+language TAT;
+sub i by i.TRK;
+} locl;
+
+feature liga {
+    sub f f by f_f;
+    sub f i by fi;
+    sub f l by fl;
+    sub f f i by f_f_i;
+    sub f f l by f_f_l;
+    sub V T F by VTF;
+    sub uni0438.3 uni0439.3 by uni04380439;
+    sub uni0418.3 uni0419.3 by uni04180419;
+} liga;
+
+feature titl {
+    sub @zigzagfrom by @zigzag2;
+    
+} titl;
+
+feature ss01 {
+     featureNames {
+         name "Zig Zags" ;};
+    sub @zigzagfrom by @zigzag2;
+    sub uni0438.2 uni0439.2 by uni04380439;
+    sub uni0418.2 uni0419.2 by uni04180419;
+    sub Mu by M.2;
+    sub Kappa by K.2;
+    sub Nu by N.2;
+    sub phi by phi.ss01;
+    sub rho by rho.ss01;
+} ss01;
+
+feature ss02 {
+    featureNames {
+         name "Zig Zag Zags" ;};
+    sub @zigzagfrom by @zigzag3;
+    sub uni0438.3 uni0439.3 by uni04380439;
+    sub uni0418.3 uni0419.3 by uni04180419;
+    sub Mu by M.3;
+    sub Kappa by K.3;
+    sub Nu by N.3;
+    sub epsilon by epsilon.ss02;
+    sub epsilontonos by epsilontonos.ss02;
+    sub phi by phi.ss01;
+    sub rho by rho.ss01;
+} ss02;
+
+feature ss03 {
+    featureNames {
+         name "Crossbarless A" ;};
+    sub @altafrom by @altatoo;
+    sub Kappa by K.3;
+    sub Mu by M.4;
+    sub Nu by N.3;
+} ss03;
+
+feature ss04 {
+        featureNames {
+         name "Simpler r" ;};
+    sub [r racute] by [r.2 racute.2];
+    
+} ss04;
+
+feature ss05 {
+    featureNames {
+         name "Highway M + W" ;};
+    sub W by W.2;
+    sub M by M.5;
+    sub uni0428 by W.2;
+    sub uni0429 by uni0429.4;
+    sub uni0448 by uni0448.4;
+    sub uni0449 by uni0449.4;
+    sub Mu by M.5;
+} ss05;
+
+feature ss06 {
+    featureNames {
+         name "Straight C" ;};
+    sub C by C.2;
+    sub uni0421 by uni0421.2;
+    sub uni0404 by uni0404.3;
+    sub uni042D by uni042D.3;
+} ss06;
+
+feature ss07 {
+    featureNames {
+         name "Long tailed R + Q" ;};
+    sub R by R.2;
+    sub Q by Q.2;
+    sub R.2' space by R;
+    sub uni042F by uni042F.2;
+} ss07;
+
+feature ss08 {
+    featureNames {
+         name "Mutants" ;};
+    sub @mutantsfrom by @mutants;
+    sub uni0438 uni0439 by uni04380439;
+    sub uni0418 uni0419 by uni04180419;
+} ss08;
+
+feature ss09 {
+    featureNames {
+         name "Cyrillic F" ;};
+    sub uni0444 by uni0444.2;
+} ss09;
+
+feature ss10 {
+    featureNames {
+         name "Randomize all alternates" ;};
+    sub uni0438 uni0439 by uni04380439;
+    sub uni0418 uni0419 by uni04180419;
+   
+    sub @allbasics @altfrom' by @altto;
+    sub [M.2 N.2 m.2 n.2 uni0418.2 uni0419.2 uni041C.2 uni0428.2 uni0429.2 uni0416.2 uni041A.2 uni0421.2 uni042D.3 uni0404.3 uni0438.2 uni0439.2 uni043C.2 uni0448.2 uni0449.2 uni0444.2] [M N m n uni0418 uni0419 uni041C uni0428 uni0429 uni0416 uni041A uni0421 uni042D uni0404 uni0438 uni0439 uni043C uni0448 uni0449 uni0444]' by [M.3 N.3 m.3 n.3 uni0418.3 uni0419.3 uni041C.3 uni0428.3 uni0429.3 uni0416.3 uni041A.3 uni0421 uni042D uni0404 uni0438.3 uni0439.3 uni043C.3 uni0448.3 uni0449.3 uni0444];
+    sub [M.3 m.3 n.3 uni041C.3] [M m n uni041C]' by [M.4 m.4 n.4 uni041C.4];
+    sub [M.2 N.2 m.2 n.2 uni0418.2 uni0419.2 uni041C.2 uni0428.2 uni0429.2 uni0416.2 uni041A.2 uni0421.2 uni042D.3 uni0404.3 uni0438.2 uni0439.2 uni043C.2 uni0448.2 uni0449.2 uni0444.2] @allbasics [M.2 N.2 m.2 n.2 uni0418 uni0419 uni041C uni0428 uni0429 uni0416 uni041A uni0421 uni042D uni0404 uni0438 uni0439 uni043C uni0448 uni0449 uni0444.2]' by [M.3 N.3 m.3 n.3 uni0418.3 uni0419.3 uni041C.3 uni0428.3 uni0429.3 uni0416.3 uni041A.3 uni0421 uni042D uni0404 uni0438.3 uni0439.3 uni043C.3 uni0448.3 uni0449.3 uni0444];
+    sub [M.3 m.3 n.3 uni041C.3] @allbasics [M.3 m.3 n.3 uni041C.3]' by [M.4 m.4 n.4 uni041C.4];
+   
+} ss10;
+
+feature aalt {
+    sub @zigzagfrom by @zigzag2;
+    sub @altafrom by @altatoo;
+    sub C by C.2;
+    sub K from [K.2 K.3];
+    sub M from [M.2 M.3 M.4 M.5];
+    sub N from [N.2 N.3];
+    sub W by W.2;
+    sub m from [m.2 m.3 m.4];
+    sub n from [n.2 n.3 n.4];
+    sub Q by Q.2;
+    sub R by R.2;
+    sub W by W.2;
+    sub f by f.2;
+    sub j by j.2;
+    sub r by r.2;
+    sub @lnum by @onum;
+    sub @onum by @lnum;
+    sub [ zero zero.OP ] by [ zero.slash zero.slash.OP ] ;
+
+    sub uni0416 from [uni0416.2 uni0416.3];
+    sub uni0418 from [uni0418.2 uni0418.3];
+    sub uni0419 from [uni0419.2 uni0419.3];
+    sub uni041A from [uni041A.2 uni041A.3];
+    sub uni041C from [uni041C.2 uni041C.3 uni041C.4];
+    sub uni0428 by uni0428.2;
+    sub uni0429 by uni0429.2;
+    sub uni0438 from [uni0438.2 uni0438.3];
+    sub uni0439 from [uni0439.2 uni0439.3];
+    sub uni043C from [uni043C.2 uni043C.3];
+    sub uni0444 by uni0444.2;
+    sub uni0448 by uni0448.2;
+    sub uni0449 by uni0449.2;
+} aalt;
+
+feature salt {
+    sub @zigzagfrom by @zigzag2;
+    sub uni0438.2 uni0439.2 by uni04380439;
+    sub uni0418.2 uni0419.2 by uni04180419;
+    
+} salt;
+
+feature lnum {
+    sub @onum by @lnum;
+    
+} lnum;
+
+feature onum {
+    sub @lnum by @onum;
+    
+} onum;
+
+feature zero {
+    sub [ zero zero.OP ] by [ zero.slash zero.slash.OP ] ;
+    
+} zero;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature dlig {
+# automatic
+sub uni0418 uni0419 by uni04180419;
+sub uni0438 uni0439 by uni04380439;
+} dlig;
+
+feature kern {
+   
+	pos @Alphas_left @Omicron_Thetas -10;
+	pos @Alphas_left @Taus -20;
+	pos @Alphas_left @Upsilons_right -20;
+	pos @Alphas_left @Psis -20; 
+ 	lookup kern0 {
+		pos @Alphas_left @Phis -20;
+		pos @Gammas @Alphas_right -30;	   
+		pos @Omicron_Thetas @Alphas_right -10;
+		pos @Omicron_Thetas @Sigmas -10;
+		pos @Omicron_Thetas @Phis -10;
+		pos @Rhos @Alphas_right -10;	 	 
+		pos @Taus @Alphas_right -20;	 	 
+		pos @Upsilons_left @Phis -20;
+		pos @Upsilons_left @Alphas_right -20;	 	 	 	 	 	 	 	 	 		 
+		pos @Psis @Alphas_right -10;
+	} kern0;
+	
+	pos lambda gamma -30;
+	pos lambda nu -30;
+	pos Gamma @lc_for_Gamma_Tau -40;
+	pos Tau @lc_for_Gamma_Tau -40;	  
+ 
+} kern;
+

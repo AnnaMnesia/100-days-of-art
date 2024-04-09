@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.OP" format="2">
+	<advance width="266"/>
+	<anchor x="98" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="161" y="398" type="curve"/>
+			<point x="161" y="459" type="line"/>
+			<point x="161" y="534"/>
+			<point x="143" y="545"/>
+			<point x="122" y="545" type="curve"/>
+			<point x="100" y="545"/>
+			<point x="95" y="523"/>
+			<point x="95" y="488" type="curve"/>
+			<point x="95" y="287" type="line" smooth="yes"/>
+			<point x="95" y="251"/>
+			<point x="102" y="235"/>
+			<point x="118" y="235" type="curve"/>
+			<point x="139" y="235"/>
+			<point x="161" y="304"/>
+		</contour>
+		<contour>
+			<point x="161" y="31" type="curve"/>
+			<point x="161" y="191" type="line"/>
+			<point x="184" y="343" type="line"/>
+			<point x="174" y="345" type="line"/>
+			<point x="153" y="195"/>
+			<point x="122" y="170"/>
+			<point x="86" y="170" type="curve"/>
+			<point x="51" y="170"/>
+			<point x="25" y="201"/>
+			<point x="25" y="251" type="curve"/>
+			<point x="25" y="475" type="line" smooth="yes"/>
+			<point x="25" y="573"/>
+			<point x="75" y="610"/>
+			<point x="134" y="610" type="curve"/>
+			<point x="197" y="610"/>
+			<point x="231" y="579"/>
+			<point x="231" y="493" type="curve"/>
+			<point x="231" y="6" type="line"/>
+			<point x="231" y="-92"/>
+			<point x="191" y="-130"/>
+			<point x="117" y="-130" type="curve"/>
+			<point x="62" y="-130"/>
+			<point x="27" y="-70"/>
+			<point x="30" y="37" type="curve"/>
+			<point x="33" y="148" type="line"/>
+			<point x="47" y="148" type="line"/>
+			<point x="50" y="40" type="line" smooth="yes"/>
+			<point x="52" y="-40"/>
+			<point x="71" y="-65"/>
+			<point x="113" y="-65" type="curve"/>
+			<point x="142" y="-65"/>
+			<point x="161" y="-46"/>
+		</contour>
+	</outline>
+</glyph>

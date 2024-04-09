@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+	<advance width="241"/>
+	<unicode hex="03B3"/>
+	<anchor x="123" y="640" name="top"/>
+	<note>
+		Wed Jul 24 17:34:59 2019
+	</note>
+	<outline>
+		<contour>
+			<point x="84" y="125" type="line"/>
+			<point x="157" y="125" type="line"/>
+			<point x="157" y="-130" type="line"/>
+			<point x="84" y="-130" type="line"/>
+		</contour>
+		<contour>
+			<point x="-5" y="600" type="line"/>
+			<point x="71" y="600" type="line"/>
+			<point x="104" y="359" type="line"/>
+			<point x="126" y="139" type="line"/>
+			<point x="137" y="139" type="line"/>
+			<point x="131" y="-50" type="line"/>
+			<point x="110" y="-50" type="line"/>
+		</contour>
+		<contour>
+			<point x="137" y="139" type="line"/>
+			<point x="164" y="600" type="line"/>
+			<point x="246" y="600" type="line"/>
+			<point x="131" y="-50" type="line"/>
+			<point x="110" y="-50" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.48,1,0.7,1</string>
+		</dict>
+	</lib>
+</glyph>

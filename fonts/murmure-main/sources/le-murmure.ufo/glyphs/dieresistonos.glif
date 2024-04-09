@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+	<advance width="250"/>
+	<unicode hex="0385"/>
+	<anchor x="125" y="640" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-13" y="710" type="line"/>
+			<point x="-13" y="664" type="line"/>
+			<point x="73" y="664" type="line"/>
+			<point x="73" y="710" type="line"/>
+		</contour>
+		<contour>
+			<point x="177" y="710" type="line"/>
+			<point x="177" y="664" type="line"/>
+			<point x="263" y="664" type="line"/>
+			<point x="263" y="710" type="line"/>
+		</contour>
+		<component base="tonos" xOffset="51"/>
+	</outline>
+</glyph>
