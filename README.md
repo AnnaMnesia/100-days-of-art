@@ -1,10 +1,29 @@
-# 100 DAYS OF ART
+# 100 Days of Art
 
-<img width="1439" alt="100-days-of-art" src="https://github.com/AnnaMnesia/100-days-of-art/assets/95618481/1298c2f1-aeb4-4736-956e-fb37e635d701">
+<div align="center">
+  <br />
+      <img src="/assets/banner.png" alt="Project Banner">
+  <br />
 
--------------------
-## WEB DEVELOPMENT & DESIGN (by Anna Mast)
-#### As the curator and creator of "100 DAYS OF ART," Anna Mastoridou sought not only to celebrate the rich tapestry of human creativity but also to ignite a spark of curiosity and wonder in all who encountered it. 
-#### For art is not merely confined to museums and galleries; it is a living, breathing force that permeates every aspect of our lives, enriching our experiences and challenging our perceptions.
+  <div>
+    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
+  </div>
 
-### View Site: https://100daysofart.netlify.app
+  <br />
+    <p>
+      🔗 <strong>Live Demo:</strong> <a href="">Click here to view the app live!</a>
+    </p>
+  <br />
+</div>
+
+## ⚫ Introduction
+
+This is a **minimal digital gallery** using **p5.js** and **GSAP (Greensock)**. It highlights the effective use of **GSAP (Greensock Animations)** and **p5.js** for displaying paintings, art and beyond...
+
+## ⚪ Tech Stack
+
+- **HTML 5**
+- **CSS 3**
+- **P5.js**
+- **GSAP (Greensock)**
+
