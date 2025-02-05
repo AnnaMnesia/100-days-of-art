@@ -6,7 +6,11 @@
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
+   <img src="https://img.shields.io/badge/-p5.js-black?style=for-the-badge&logo=p5.js&logoColor=white&color=ED225D" alt="p5.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" />
+
   </div>
 
   <br />
@@ -24,6 +28,6 @@ This is a **minimal digital gallery** using **p5.js** and **GSAP (Greensock)**. 
 
 - **HTML 5**
 - **CSS 3**
+- **JavaScript**
 - **P5.js**
 - **GSAP (Greensock)**
-
