@@ -24,10 +24,11 @@ body {
 
 img {
   width: 100%;
-  height: auto; /* Keep aspect ratio */
+  height: 100%;
   object-fit: cover;
 }
 
+/* Loader */
 .loader {
   width: 100vw;
   height: 100vh;
@@ -41,14 +42,21 @@ img {
   z-index: 10000;
 }
 
-.clip-top,
-.clip-bottom,
-.clip-center {
+.clip-top {
+  top: 0;
+  clip-path: inset(0 0 0 0);
+  background: #000;
+}
+
+.clip-bottom {
+  bottom: 0;
   clip-path: inset(0 0 0 0);
   background: #000;
 }
 
 .clip-center {
+  top: 33.3vh;
+  clip-path: inset(0 0 0 0);
   background: #fff;
 }
 
@@ -143,7 +151,6 @@ img {
   overflow-y: auto;
   scrollbar-width: none;
 }
-
 .items::-webkit-scrollbar {
   display: none;
 }
@@ -164,8 +171,8 @@ img {
 }
 
 .item-img {
-  width: 100%;
-  height: auto; /* Maintain aspect ratio */
+  width: 100%; /*it was 100% */
+  height: 100%;
   object-fit: fill;
 }
 
@@ -177,13 +184,13 @@ img {
 }
 
 .rectangle {
-  width: 20px;
-  height: 20px;
-  background-color: red;
-  animation: flicker 1.7s infinite alternate;
-  position: fixed;
-  top: 0;
-  left: 0;
+  width: 20px; /* Set width */
+  height: 20px; /* Set height */
+  background-color: red; /* Set background color */
+  animation: flicker 1.7s infinite alternate; /* Apply flickering animation */
+  position: fixed; /* Position the square relative to the browser window */
+  top: 0; /* Distance from the top of the window */
+  left: 0; /* Distance from the left of the window */
 }
 
 @keyframes flicker {
@@ -195,84 +202,5 @@ img {
   }
   100% {
     opacity: 1;
-  }
-}
-
-/* Media Queries for Responsiveness */
-@media screen and (max-width: 1200px) {
-  .filters {
-    width: 40vw;
-  }
-
-  .container {
-    height: 100vh;
-  }
-
-  .marquee {
-    font-size: 12vw;
-  }
-
-  .item-img {
-    object-fit: cover;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .filters {
-    width: 50vw;
-    padding: 1.5em;
-  }
-
-  .marquee {
-    font-size: 14vw;
-  }
-
-  .items {
-    width: 100%;
-    padding: 1em;
-  }
-
-  .item-img {
-    object-fit: cover;
-  }
-
-  .container {
-    height: auto;
-  }
-
-  .filter p {
-    font-size: 18px;
-  }
-
-  .filter h1 span {
-    font-size: 60px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .filters {
-    width: 100vw;
-    padding: 1em;
-  }
-
-  .marquee {
-    font-size: 18vw;
-  }
-
-  .items {
-    width: 100%;
-    padding: 1em;
-  }
-
-  .filter p {
-    font-size: 16px;
-  }
-
-  .filter h1 span {
-    font-size: 50px;
-  }
-
-  .container {
-    height: auto;
   }
 }
